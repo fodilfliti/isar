@@ -13,7 +13,7 @@ dependencies:
     sdk: flutter
   isar:
     git:
-      url: https://github.com/ZaCompanyMobileDevelopment/isar
+      url: https://github.com/fodilfliti/isar
       ref: main
       path: packages/isar
 
